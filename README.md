@@ -1,0 +1,1 @@
+Desarrollé scripts SQL y PL/SQL para automatizar la gestión y evaluación de postulaciones a becas de pasantía docente. Implementé usuarios, roles y privilegios siguiendo el principio de menor privilegio, y optimicé consultas mediante índices en Oracle 19c
